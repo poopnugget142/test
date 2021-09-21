@@ -1,1 +1,2 @@
-print("Hello world, from client!")
+local colorChange = require(game.ReplicatedStorage.Common.Color)
+
